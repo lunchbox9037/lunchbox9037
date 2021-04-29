@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 
-**lunchbox9037/lunchbox9037** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 I'm Stan, an iOS developer currently open to work. I have two apps on the App Store:
 ### StreamHunter https://apps.apple.com/us/app/streamhunter/id1556698910
